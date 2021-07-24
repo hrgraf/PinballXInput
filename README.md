@@ -7,5 +7,5 @@ Using an Arduino Leonardo (resp. Pro Micro clone) and a MPU6050 accelerometer:
 * the accelerometer is used to nudge the table
 
 Based on examples/libraries from:
-* David Madison (github.com/dmadison/ArduinoXInput)
+* David Madison (https://github.com/dmadison/ArduinoXInput)
 * Jeff Rowberg (https://github.com/jrowberg/i2cdevlib)
